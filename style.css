@@ -1,0 +1,24 @@
+body {
+    align-self: center;
+   
+}
+.header {
+    font-stretch: 50px;
+    font-size: 300%;
+}
+.top-pic {
+  width: 20%;
+  border: black solid 20px;
+  margin: 0 auto;
+}
+.mid-pic {
+margin: 0 auto;
+width: 30%;
+border: rgb(150, 108, 31) solid 20px;
+}
+.font {
+    font-size: larger;
+}
+.button {
+
+}
